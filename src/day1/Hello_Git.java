@@ -1,3 +1,5 @@
+package day1;
+
 public class Hello_Git {
     public static void main(String[] args) {
 
